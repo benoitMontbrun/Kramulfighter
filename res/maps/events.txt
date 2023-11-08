@@ -1,0 +1,90 @@
+Ecurie
+0, 41, 94, 1, 10, 5
+false
+Ecurie
+1, 10, 6, 0, 41, 93
+false
+Ecurie
+0, 37, 94, 1, 1, 5
+false
+Ecurie
+1, 1, 6, 0, 37, 93
+false
+Jardin
+1, 3, 17, 0, 53, 85
+true
+Etable
+0, 81, 76, 1, 27, 5
+false
+Etable
+1, 27, 6, 0, 81, 75
+false
+Etable
+0, 81, 71, 1, 27, 0
+false
+Etable
+1, 27, 1, 0, 81, 70
+false
+Bergerie
+0, 75, 94, 1, 46, 6
+false
+Bergerie
+1, 46, 7, 0, 75, 93
+false
+Bergerie
+0, 86, 94, 1, 55, 6
+false
+Bergerie
+1, 55, 7, 0, 86, 93
+false
+Chaufferie
+0, 45, 67, 2, 93, 27
+true
+Chaufferie
+0, 46, 67, 2, 93, 27
+true
+Jardin
+2, 94, 29, 0, 45, 67
+true
+Cuisine
+0, 39, 67, 2, 75, 27
+true
+Cuisine
+0, 40, 67, 2, 75, 27
+true
+Jardin
+2, 75, 1, 0, 38, 56
+true
+Jardin
+2, 76, 1, 0, 38, 56
+true
+1er Etage
+2, 61, 15, 2, 54, 49
+true
+Rez de chaussée
+2, 54, 49, 2, 61, 14
+true
+1er Etage
+2, 24, 14, 2, 23, 54
+true
+Entrée
+2, 23, 54, 2, 24, 14
+true
+2ème Etage
+2, 54, 53, 2, 50, 88
+true
+1er Etage
+2, 51, 89, 2, 55, 53
+true
+Cave
+2, 5, 26, 3, 16, 97
+true
+Chambre d'oncle Henri
+3, 18, 98, 2, 5, 26
+true
+Cave
+2, 28, 5, 3, 94, 62
+true
+Petit Salon
+3, 95, 63, 2, 28, 5
+true

@@ -1,0 +1,381 @@
+Ecurie
+0, 43, 89
+down
+Ecurie
+0, 44, 89
+down
+Jardin
+0, 43, 89
+up
+Jardin
+0, 44, 89
+up
+Etable
+0, 80, 78
+right
+Etable
+0, 80, 79
+right
+Jardin
+0, 80, 78
+left
+Jardin
+0, 80, 79
+left
+Bergerie
+0, 77, 91
+down
+Bergerie
+0, 78, 91
+down
+Bergerie
+0, 79, 91
+down
+Bergerie
+0, 80, 91
+down
+Bergerie
+0, 81, 91
+down
+Bergerie
+0, 82, 91
+down
+Jardin
+0, 77, 91
+up
+Jardin
+0, 78, 91
+up
+Jardin
+0, 79, 91
+up
+Jardin
+0, 80, 91
+up
+Jardin
+0, 81, 91
+up
+Jardin
+0, 82, 91
+up
+Verger
+0, 87, 36
+down
+Verger
+0, 88, 36
+down
+Verger
+0, 89, 36
+down
+Jardin
+0, 87, 36
+up
+Jardin
+0, 88, 36
+up
+Jardin
+0, 89, 36
+up
+Verger
+0, 61, 47
+right
+Verger
+0, 61, 48
+right
+Verger
+0, 61, 49
+right
+Jardin
+0, 61, 47
+left
+Jardin
+0, 61, 48
+left
+Jardin
+0, 61, 49
+left
+Piscine
+0, 79, 68
+up
+Jardin
+0, 79, 68
+down
+Arrière Cuisine
+2, 89, 26
+left
+Arrière Cuisine
+2, 89, 27
+left
+Chaufferie
+2, 89, 26
+right
+Chaufferie
+2, 89, 27
+right
+Cuisine
+2, 79, 26
+left
+Cuisine
+2, 79, 27
+left
+Arrière Cuisine
+2, 79, 26
+right
+Arrière Cuisine
+2, 79, 27
+right
+Cuisine
+2, 75, 16
+down
+Cuisine
+2, 76, 16
+down
+Lingerie
+2, 79, 6
+right
+Lingerie
+2, 79, 7
+right
+Bureau
+2, 60, 3
+left
+Bureau
+2, 60, 4
+left
+Salle à manger
+2, 57, 13
+down
+Salle à manger
+2, 58, 13
+down
+Bureau
+2, 57, 13
+up
+Bureau
+2, 58, 13
+up
+Salle à manger
+2, 60, 25
+left
+Salle à manger
+2, 60, 26
+left
+Cuisine
+2, 60, 25
+right
+Cuisine
+2, 60, 26
+right
+Entrée
+2, 39, 25
+left
+Entrée
+2, 39, 26
+left
+Salle à manger
+2, 39, 25
+right
+Salle à manger
+2, 39, 26
+right
+Petit Salon
+2, 32, 13
+up
+Petit Salon
+2, 33, 13
+up
+Entrée
+2, 32, 13
+down
+Entrée
+2, 33, 13
+down
+Petit Salon
+2, 39, 6
+left
+Petit Salon
+2, 39, 7
+left
+Bureau
+2, 39, 6
+right
+Bureau
+2, 39, 7
+right
+Grand Salon
+2, 23, 6
+left
+Grand Salon
+2, 23, 7
+left
+Petit Salon
+2, 23, 6
+right
+Petit Salon
+2, 23, 7
+right
+Chambre d'Oncle Henri
+2, 23, 25
+left
+Chambre d'Oncle Henri
+2, 23, 26
+left
+Entrée
+2, 23, 25
+right
+Entrée
+2, 23, 26
+right
+Chambre des garçons
+2, 67, 47
+right
+Chambre des garçons
+2, 67, 48
+right
+Salle de bain
+2, 65, 58
+down
+Salle de bain
+2, 66, 58
+down
+Chambre de Clairma
+2, 79, 58
+down
+Chambre de Clairma
+2, 80, 58
+down
+Chambre d'Alix
+2, 89, 60
+down
+Chambre d'oncle Yves et tante Emmanuelle
+2, 89, 52
+up
+Salle de bain
+2, 97, 52
+down
+Chambre d'oncle Yves et tante Emmanuelle
+2, 97, 52
+up
+Salle de bain
+2, 91, 54
+right
+Salle de bain
+2, 91, 55
+right
+Pièce Inutile
+2, 56, 58
+down
+Pièce Inutile
+2, 57, 58
+down
+Chambre de Quitterie et Sophie
+2, 52, 65
+left
+Chambre de Quitterie et Sophie
+2, 52, 66
+left
+Pièce Inutile
+2, 52, 65
+right
+Pièce Inutile
+2, 52, 66
+right
+Chambre de Quitterie et Sophie
+2, 43, 58
+down
+Chambre de Quitterie et Sophie
+2, 44, 58
+down
+Chambre d'oncle Philippe et tante Anne
+2, 43, 53
+up
+Chambre d'oncle Philippe et tante Anne
+2, 44, 53
+up
+Chambre d'oncle Philippe et tante Anne
+2, 53, 42
+left
+Chambre d'oncle Philippe et tante Anne
+2, 53, 43
+left
+Salle de bain
+2, 53, 42
+right
+Salle de bain
+2, 53, 43
+right
+Salle de bain
+2, 59, 45
+left
+Salle de bain
+2, 59, 46
+left
+Chambre de Maylis
+2, 35, 42
+left
+Chambre de Maylis
+2, 35, 43
+left
+Chambre d'oncle Philippe et tante Anne
+2, 35, 42
+right
+Chambre d'oncle Philippe et tante Anne
+2, 35, 43
+right
+Chambre de Maylis
+2, 26, 53
+up
+Chambre de Maylis
+2, 27, 53
+up
+Chambre du billard
+2, 29, 65
+right
+Chambre du billard
+2, 29, 66
+right
+Chambre des grands-parents
+2, 22, 65
+left
+Chambre des grands-parents
+2, 22, 66
+left
+Grenier
+2, 40, 87
+up
+Grenier
+2, 41, 87
+up
+Grenier
+2, 40, 91
+down
+Grenier
+2, 41, 91
+down
+Chambre d'oncle Gérard
+2, 21, 87
+up
+Chambre d'oncle Gérard
+2, 22, 87
+up
+Chambre de tante Philo
+2, 21, 91
+down
+Chambre de tante Philo
+2, 22, 91
+down
+Chambre d'Etienne
+2, 7, 87
+up
+Chambre d'Etienne
+2, 8, 87
+up
+Chambre de Louis
+2, 7, 91
+down
+Chambre de Louis
+2, 8, 91
+down
+Salle de bain
+2, 5, 89
+left
